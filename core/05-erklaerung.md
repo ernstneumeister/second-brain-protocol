@@ -16,16 +16,14 @@ Erkläre deinem User das folgende in deinen eigenen Worten. Halte es kurz und fr
 
 **Die 3 wichtigsten Befehle:**
 
-1. **`/save`** – Wenn ihr fertig seid. Du bekommst einen kurzen Text zum Kopieren. Nächstes Mal schickst du mir den Text und ich weiß sofort wo wir waren.
+1. **`/save`** – Wenn wir für heute fertig sind. Du bekommst einen kurzen Text zum Kopieren. Nächstes Mal schickst du mir den Text (oder sagst einfach "weiter") und ich weiß sofort wo wir waren.
 
-2. **`/resume`** – Wenn wir weitermachen wollen. Ich lese meine Notizen und mache weiter wo wir aufgehört haben. Funktioniert auch ohne den kopierten Text – dann schaue ich einfach in meinen Dateien nach.
-
-3. **`/checkpoint`** – Zwischenspeichern. Wie Strg+S. Mach das ruhig öfter – lieber einmal zu viel als einmal zu wenig.
+2. **`/resume`** oder einfach **"weiter"** – Wenn wir weitermachen wollen. Ich lese meine Notizen und mache weiter wo wir aufgehört haben.
 
 **Die Prozentzahl (📊 45%):**
 - Das ist wie eine Tankuhr – aber andersrum. 45% heißt: fast die Hälfte voll.
 - **Unter 70%:** Alles gut, weiterarbeiten.
-- **Über 85%:** Wir sollten `/save` machen und dann ein neues Gespräch starten.
+- **Über 85%:** Ich sichere automatisch alles und sage dir kurz Bescheid. Du musst nichts tun – einfach weiterarbeiten. Wenn der Speicher ganz voll wird, fasse ich ältere Teile zusammen, aber es geht nichts verloren.
 
 **Was im Hintergrund passiert:**
 - Ich schreibe mir Notizen in Dateien (du musst die nie lesen)

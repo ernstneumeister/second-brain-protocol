@@ -8,9 +8,8 @@
 
 Dein Assistent bekommt Befehle die du einfach eintippen kannst. Die wichtigsten:
 
-- **`/save`** – "Wir sind fertig für heute. Merk dir alles." Dein Assistent sichert die gesamte Arbeit und gibt dir einen kurzen Text. Den kopierst du und schickst ihn nächstes Mal – dann weiß er sofort wo ihr wart.
-- **`/resume`** – "Weiter wo wir aufgehört haben." Dein Assistent liest seine Notizen und macht weiter.
-- **`/checkpoint`** – Zwischenspeichern ohne aufzuhören. Wie Strg+S bei Word.
+- **`/save`** – "Wir sind fertig für heute." Dein Assistent sichert alles und gibt dir einen kurzen Text zum Kopieren. Nächstes Mal schickst du ihm den Text und er weiß sofort wo ihr wart. (Hinweis: Dein Assistent sichert sowieso laufend im Hintergrund – `/save` ist nur für einen bewussten Abschluss.)
+- **`/resume`** – "Weiter wo wir aufgehört haben." Oder sag einfach "weiter" – dein Assistent liest seine Notizen und macht weiter.
 - **`/progress`** – "Was haben wir bisher gemacht?"
 - **`/idea`** – Idee schnell notieren, wird gesammelt.
 - **`/task`** – Aufgabe notieren, wird gesammelt.
@@ -44,13 +43,6 @@ Session-Ende. Alles sichern + Resume Prompt generieren.
 Session-Start. Kontext aufnehmen.
 Mit Resume Prompt: Alle genannten Files lesen, cross-referenzieren, Orientierung in eigenen Worten zeigen. Context % anzeigen.
 Ohne Prompt: Core Files → Memory → Projekte scannen. Zeigen was gefunden wurde, fragen worauf fokussiert werden soll.
-
-## /checkpoint
-Mid-Session Save. Fortschritt sichern ohne zu beenden.
-1. Aktive Dateien updaten
-2. memory/YYYY-MM-DD.md ergänzen
-3. Git commit + push
-4. Bestätigung: "💾 Checkpoint. [summary]"
 
 ## /progress
 Read-only Status-Snapshot. Keine Files ändern.
@@ -99,8 +91,7 @@ Erklärt dem User das komplette System in einfacher Sprache.
 
 ## /mycommands
 /save — Alles sichern + Resume Prompt
-/resume — Kontext aufnehmen
-/checkpoint — Zwischenspeichern
+/resume — Kontext aufnehmen (oder sag einfach "weiter")
 /progress — Status-Snapshot
 /idea {idee} — Idee festhalten
 /task {beschreibung} — Task festhalten
