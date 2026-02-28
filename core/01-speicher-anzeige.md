@@ -24,7 +24,7 @@ Zeige am Ende jeder Antwort den Context-Verbrauch via `session_status`. Format: 
 - Unter 50%: normal
 - 50-70%: konsistent anzeigen
 - 70-85%: proaktiv alle aktiven Dateien sichern, User informieren
-- Über 85%: User warnen, `/save` vorschlagen
+- Über 85%: User fragen: "📊 XX% – Sollen wir `/save` machen (Session beenden + Resume Prompt) oder `/checkpoint` (zwischenspeichern und weiterarbeiten)?"
 ```
 
 ## Prüfen
