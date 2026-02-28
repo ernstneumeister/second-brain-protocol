@@ -20,7 +20,7 @@ Du bist **kein Entwickler** – und musst auch keiner sein. Dein Assistent arbei
 1. Schick deinem Assistenten den Link zu diesem Repo
 2. Sag: *"Arbeite das Second Brain Protocol mit mir durch. Erkläre mir jeden Schritt bevor du ihn umsetzt und warte auf mein OK."*
 3. Dein Assistent erklärt jeden Schritt in einfacher Sprache
-4. Nach ca. 15 Minuten hat dein Assistent ein Gedächtnis
+4. In wenigen Minuten hat dein Assistent ein Gedächtnis
 
 ---
 
@@ -28,11 +28,11 @@ Du bist **kein Entwickler** – und musst auch keiner sein. Dein Assistent arbei
 
 | Schritt | Was passiert | Dauer |
 |---------|-------------|-------|
-| 1 | Speicher-Anzeige einrichten | 2 Min |
-| 2 | Notiz-System einrichten | 3 Min |
-| 3 | Befehle aktivieren (/save, /resume, etc.) | 5 Min |
-| 4 | Ordnerstruktur anlegen | 3 Min |
-| 5 | System erklären + testen | 2 Min |
+| 1 | Speicher-Anzeige einrichten |
+| 2 | Notiz-System einrichten |
+| 3 | Befehle aktivieren (/save, /resume, etc.) |
+| 4 | Ordnerstruktur anlegen |
+| 5 | System erklären + testen |
 
 **Danach:** Dein Assistent erklärt dir in einfacher Sprache wie du das System im Alltag nutzt.
 
