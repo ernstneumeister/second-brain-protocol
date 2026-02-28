@@ -1,14 +1,14 @@
 # 🧠 Second Brain Protocol
 
-**Gib deinem KI-Assistenten ein Gedächtnis.**
+**Gib deinem KI-Assistenten ein besseres Gedächtnis.**
 
-Dein Assistent vergisst alles zwischen Gesprächen. Jede neue Session startet er bei Null – ohne Erinnerung an eure Arbeit, eure Regeln, eure Entscheidungen. Das Second Brain Protocol ändert das.
+Dein Assistent vergisst noch zu viel zwischen Gesprächen – Absprachen, Regeln, wichtige Entscheidungen. Manchmal weiß er nicht mehr, wo ihr aufgehört habt. Das Second Brain Protocol ändert das.
 
-Nach der Einrichtung kann dein Assistent:
-- ✅ Sich erinnern wo ihr aufgehört habt
-- ✅ Dir zeigen wann sein Speicher voll wird
-- ✅ Sich selbst Notizen machen, die er morgen wieder liest
-- ✅ Projekte, Ideen und Aufgaben strukturiert verwalten
+Nach der Einrichtung:
+- ✅ Er erinnert sich besser an eure Absprachen und Regeln
+- ✅ Er weiß, wo ihr beim letzten Mal aufgehört habt
+- ✅ Du siehst, wann sein Speicher voll wird – und er kümmert sich selbst darum
+- ✅ Projekte, Ideen und Aufgaben werden strukturiert verwaltet
 
 ---
 
