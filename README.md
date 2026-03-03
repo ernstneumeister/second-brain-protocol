@@ -26,13 +26,14 @@ Du bist **kein Entwickler** – und musst auch keiner sein. Dein Assistent arbei
 
 ## Was wird eingerichtet?
 
-| Schritt | Was passiert | Dauer |
-|---------|-------------|-------|
+| Schritt | Was passiert |
+|---------|-------------|
 | 1 | Speicher-Anzeige einrichten |
 | 2 | Notiz-System einrichten |
 | 3 | Befehle aktivieren (/save, /resume, etc.) |
 | 4 | Ordnerstruktur anlegen |
 | 5 | System erklären + testen |
+| 6 | *(Optional)* QMD für bessere Suche — nur Mac Mini / GPU |
 
 **Danach:** Dein Assistent erklärt dir in einfacher Sprache wie du das System im Alltag nutzt.
 
@@ -56,6 +57,7 @@ core/
   03-befehle.md              ← /save, /resume und weitere Commands
   04-ordnerstruktur.md       ← Projekte, Meetings, Wissen organisieren
   05-erklaerung.md           ← System dem User erklären + testen
+  06-qmd-optional.md         ← (Optional) Bessere Suche für Mac Mini / GPU
 ```
 
 ---
