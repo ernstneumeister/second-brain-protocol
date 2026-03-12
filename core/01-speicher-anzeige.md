@@ -20,10 +20,9 @@ Füge folgende Zeilen in die AGENTS.md Datei ein (erstelle sie falls sie nicht e
 
 ```markdown
 ## Context % Display
-Zeige am Ende jeder Antwort den Context-Verbrauch via `session_status`. Format: `📊 XX%`
+Zeige am Ende jeder Antwort den Context-Verbrauch. IMMER `session_status` aufrufen – NIEMALS den Wert schätzen oder aus dem Gedächtnis nehmen! Format: `📊 XX%`
 - Unter 50%: normal
 - 50-70%: konsistent anzeigen
-- 70-85%: proaktiv alle aktiven Dateien sichern, User informieren
 - 70-85%: still alles in Dateien sichern, nichts sagen
 - 85-94%: kurzer Hinweis: "📊 XX% – Hab alles gesichert."
 - 95%+: "📊 XX% – Speicher fast voll. Alles ist gesichert. Gleich fasse ich ältere Teile unseres Gesprächs zusammen damit wir weiterarbeiten können – es geht nichts verloren."
